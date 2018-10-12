@@ -7,7 +7,7 @@ How to use it
 
 2) Install pytesseract
 
-3) Go to fontend folder and run npm install for frontend folder
+3) Go to fontend folder and run npm install 
 
 4) Run npm start
 
