@@ -3,10 +3,16 @@ Repository to scan the documents for customer registration
 
 How to use it
 
-Install tesseract4.0,
+1)Install tesseract4.0
 
-Install pytesseract,
+2)Install pytesseract
 
-run npm install for frontend folder
+3)Go to fontend folder and run npm install for frontend folder
+
+4) run npm start
+
+5) Open the server.ipynb in jupyter notebook and run it
+
+6) Browse the Image file present in the template folder
 
 
